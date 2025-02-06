@@ -14,14 +14,6 @@ github.com/google/gnostic-models v0.6.9 h1:MU/8wDLif2qCXZmzncUQ/BOfxWfthHi63Kqpo
 github.com/google/gnostic-models v0.6.9/go.mod h1:CiWsm0s6BSQd1hRn8/QmxqB6BesYcbSZxsz9b0KuDBw=
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
 github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
-github.com/jeroenrinzema/openapi v0.0.0-20250206191947-c4bf469e7fef h1:Ifw/JyjRUYYezXNTjvTo+MJ4mEGnu0gZr1hTCNYMjTY=
-github.com/jeroenrinzema/openapi v0.0.0-20250206191947-c4bf469e7fef/go.mod h1:5UIDak/DK15prKbrzgpFi54kGTG1vuLX3116S4kclo0=
-github.com/jeroenrinzema/openapi v0.0.0-20250206192856-122a24cb88cc h1:n0y457g/asbvHkPSHwtiO+J3qI8mKim2GPd/o0AK6nE=
-github.com/jeroenrinzema/openapi v0.0.0-20250206192856-122a24cb88cc/go.mod h1:5UIDak/DK15prKbrzgpFi54kGTG1vuLX3116S4kclo0=
-github.com/jeroenrinzema/openapi v0.0.0-20250206193250-35adb38b3d31 h1:706C3z8HqwbalD6utqVXeoPzPrZg2oQIF44NJgzvmUY=
-github.com/jeroenrinzema/openapi v0.0.0-20250206193250-35adb38b3d31/go.mod h1:5UIDak/DK15prKbrzgpFi54kGTG1vuLX3116S4kclo0=
-github.com/jeroenrinzema/openapi v0.0.0-20250206194208-728e7c5011a8 h1:5caF7+QqsycdLqms+adxnCWBgn/U8Zl/l4siDdaMsPY=
-github.com/jeroenrinzema/openapi v0.0.0-20250206194208-728e7c5011a8/go.mod h1:5UIDak/DK15prKbrzgpFi54kGTG1vuLX3116S4kclo0=
 github.com/jeroenrinzema/openapi v0.0.0-20250206194350-01fe60a20bb5 h1:G7Uo8s9sSQ11iTFyQgaFeBFlbUH5tSO1LAfS62QHr+A=
 github.com/jeroenrinzema/openapi v0.0.0-20250206194350-01fe60a20bb5/go.mod h1:5UIDak/DK15prKbrzgpFi54kGTG1vuLX3116S4kclo0=
 github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
